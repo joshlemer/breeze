@@ -1,6 +1,13 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/breeze/compare/v2.2.4...2.x)
+## [Unreleased](https://github.com/laravel/breeze/compare/v2.2.5...2.x)
+
+## [v2.2.5](https://github.com/laravel/breeze/compare/v2.2.4...v2.2.5) - 2024-11-12
+
+* fix(ts): remove redundant [@ts-expect-error](https://github.com/ts-expect-error) directives in SSR route setup by [@datlechin](https://github.com/datlechin) in https://github.com/laravel/breeze/pull/434
+* Backport JetStream Modal.vue enhancements by [@mrleblanc101](https://github.com/mrleblanc101) in https://github.com/laravel/breeze/pull/435
+* Convert array to single line format by [@Rattone](https://github.com/Rattone) in https://github.com/laravel/breeze/pull/436
+* [2.x] Replace `Rule` with `ValidationRule` by [@avosalmon](https://github.com/avosalmon) in https://github.com/laravel/breeze/pull/437
 
 ## [v2.2.4](https://github.com/laravel/breeze/compare/v2.2.3...v2.2.4) - 2024-10-29
 
