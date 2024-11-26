@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/breeze/compare/v2.2.5...2.x)
+## [Unreleased](https://github.com/laravel/breeze/compare/v2.2.6...2.x)
+
+## [v2.2.6](https://github.com/laravel/breeze/compare/v2.2.5...v2.2.6) - 2024-11-20
+
+* [2.x] Supports PHPStan 2 by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/breeze/pull/441
 
 ## [v2.2.5](https://github.com/laravel/breeze/compare/v2.2.4...v2.2.5) - 2024-11-12
 
