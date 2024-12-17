@@ -1,6 +1,11 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/breeze/compare/v2.2.6...2.x)
+## [Unreleased](https://github.com/laravel/breeze/compare/v2.3.0...2.x)
+
+## [v2.3.0](https://github.com/laravel/breeze/compare/v2.2.6...v2.3.0) - 2024-12-14
+
+* Fix typescript version by [@mo7zayed](https://github.com/mo7zayed) in https://github.com/laravel/breeze/pull/442
+* Upgrade to Inertia V2 by [@adamjgriffith](https://github.com/adamjgriffith) in https://github.com/laravel/breeze/pull/443
 
 ## [v2.2.6](https://github.com/laravel/breeze/compare/v2.2.5...v2.2.6) - 2024-11-20
 
